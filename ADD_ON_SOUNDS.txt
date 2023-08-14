@@ -1,0 +1,173 @@
+SOUND HASH              - Notes -
+
+12vcummins			- not beefy
+
+350zsound
+
+46fordmodular			- Old Ford
+
+488sound				- Ferrari? Not sure. Sounds good.
+
+53vortec
+
+64powerstroke			- beefy diesel 
+
+918spyeng				- 918 porche
+	
+agerasound
+
+apollosv8
+
+aq07powerstroke67			-Powerstroke
+
+avesvv12
+
+bgw16				- Bugatti
+
+bnr34ffeng			- R34 ****NUT****
+
+brabus850
+
+c6v8sound
+
+camls3v8				- Calmn V8
+
+cammedcharger
+
+chargertrackhawkhemiv8	- CHARGER V8
+
+chevroletlt4			- V8 Muscle
+
+demonv8				- V8 SUPERCHARGED
+
+diablov12
+
+evoixsound
+
+f136					- Ferrari 458
+
+f40v8				- Ferrari
+
+f430v8				- Ferrari
+
+f50v12
+
+ferrarif12
+
+ferrarif140fe			- Ferrari F140 OLDER
+
+gallardov10			- Lambo Gallardo V10
+
+golfsound
+
+gt3flat6
+
+gtaspanov10
+
+harleysound			- Harley Davidson
+
+hondansxv6
+
+k20a					- 4banger with turbo
+
+kawasakih2sound		- Ninja H2
+
+ktm1290r
+
+laferrarisound
+
+lamavgineng
+
+lambov10
+
+lgcy02b16ff
+
+m158huayra			- Super Car / Hyper Car With Turbo
+
+m297zonda
+
+m4sound
+
+master
+
+mazrx7fb				- Rotory Engine
+
+mclarenv8
+
+murciev12
+
+musv8				-Not Work? 
+
+nfsv8				- V8 TURBO
+
+nisgtr35				- R35 ****NUT****
+
+p60b40
+
+perfov10				- Lambo Performante
+
+predatorv8			- SUV SUPERCHARGED
+
+r35sound
+
+rb26dett				- GTR
+
+rotary7
+
+s63b44				- GTR
+
+sestov10				- Calm LAMBO
+
+shonen
+
+skylinerb26dett		- Skyline RB26 BASIC
+
+sl65amgv12			- AMG V12
+
+subaruej257			- Subaru 
+
+superchargerdemonv8		- NEW DEMON V8
+
+suzukigsxr1k			- 1000cc Bike with 2Brothers Exhaust
+
+ta023l539				- Diablo
+
+ta103ninjah2r
+
+tacumminsb			- More realistic stock cummins
+
+tagt3flat6			- Strong 6cyl Possible EVO
+
+tamustanggt50			- Crowd Killer
+
+tascmustanggt50		- Crowd Killer SUPERCHARGED
+
+tayamahar1
+
+toysupmk4				- 2JZ
+
+twinhuracan			- Lambo Huracan LOUD AS FUCK
+
+urusv8				- Urus V8
+	
+VAGNER                  - Not sure. Maybe a 6cyl with a turbo
+
+v12lamborghinisound		- V12 Lambo LOUD
+
+veyronsound
+
+viperv10				- VIper V10
+
+vr38dettv6
+
+vwflat4				- VW Engine W/TURBO
+
+
+
+
+
+
+
+
+
+
